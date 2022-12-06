@@ -1,0 +1,10 @@
+{
+  "name": "pdf2png",
+  "packageManager": "yarn@3.3.0",
+  "dependencies": {
+    "pdf2png-mp2": "^1.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
